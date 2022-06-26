@@ -14,6 +14,7 @@ export const CartDropdownContainer = styled.div`
     top: 90px;
     right: 40px;
     z-index: 5;
+    box-shadow: 0 0 2rem 0 rgba(0, 0, 0, 0.3);
 
     ${BaseButton},
     ${GoogleSignInButton},
